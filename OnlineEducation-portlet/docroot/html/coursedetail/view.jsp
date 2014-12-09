@@ -3,3 +3,4 @@
 <portlet:defineObjects />
 
 This is the <b>Course Detail</b> portlet in View mode.
+This is a sample code change
