@@ -3,4 +3,7 @@
 
 <display>
 	
+	<category name="category.news">
+		<portlet id="course-detail"></portlet>
+	</category>
 </display>
